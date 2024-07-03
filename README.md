@@ -103,13 +103,6 @@
   <img  align="center"  src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=kilterdev&include_orgs=true&theme=white&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
-  <td>
-   <img
-      height="150"
-      alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
-    />
-  </td>
 </tr>
 </table>
 
