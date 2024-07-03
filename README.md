@@ -22,9 +22,7 @@
 - 👯 I’m looking to collaborate on Backend, Cryptography (not blockchain), and other interesting projects which involve fun.
 - 🤔 I’m looking for help with becoming a professional `C++/Rust` engineer.
 - 💬 Ask me about the universe.
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Normal
 
 </td>
 </tr>
