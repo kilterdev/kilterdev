@@ -17,7 +17,7 @@
 <tr border="none">
 <td  >
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on surviving...
 - 🌱 I’m currently learning `Rust`, `C++`, `DevOps`
 - 👯 I’m looking to collaborate on Backend, Cryptography (not blockchain), and other interesting projects which involve fun.
 - 🤔 I’m looking for help with becoming a professional `C++/Rust` engineer.
