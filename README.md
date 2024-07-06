@@ -2,7 +2,7 @@
   <br>
   <a href='https:/www.kilter.dev/'><img width="200" src='https://github.com/kilterdev/kilterdev/assets/65344944/6612d823-cd9d-439d-ac23-64263fd0f3a5' alt='Sogi' width='200'></a>
   <br>
-  KilterDev
+  Kilter Dev
   <br>
 </h1>
 
