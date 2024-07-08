@@ -37,45 +37,66 @@
 ![Linkedin: kilterdev](https://img.shields.io/badge/-kilterdev-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 
-<h2>🛠️ Languages, Frameworks, and Tools </h2>
+<h2>🛠️ SKills (Languages, Frameworks, and Tools) </h2>
 
-        
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+<table>
+  <tr>
+    <td>Accent:</td>
+    <td>
+      
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
+    </td>
+  </tr>
+  <tr>
+    <td>DevOps:</td>
+    <td>
+
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![Networking](https://img.shields.io/badge/-Networking-222222?style=flat&logo=network&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+    </td>
+  </tr>
+
+  <tr>
+    <td>Acknowledged:</td>
+    <td>
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Go](https://img.shields.io/badge/-GO-000?&logo=Go)
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+    </td>
+  </tr>
 
-
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![Bash](https://img.shields.io/badge/-Bash-000?&logo=GNU-Bash)
-
-
+  <tr>
+    <td>Misc:</td>
+    <td>
+      
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![SQL](https://img.shields.io/badge/-html-000000?style=flat&logo=html)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+    </td>
+  </tr>
+</table>
 
 <!--![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=Microsoft-Azure)
-![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Consul](https://img.shields.io/badge/-Consul-000?&logo=Consul)
 ![Prometheus](https://img.shields.io/badge/-Prometheus-000?&logo=Prometheus)
 ![Grafana](https://img.shields.io/badge/-Grafana-000?&logo=Grafana)
@@ -87,10 +108,11 @@
 
 <h2>©️ My Organizations </h2>
 
-- [Decent Sledding](https://github.com/decent-sledding) - All my coding interview and tasks
-- [Kilter City](https://github.com/kiltercity) - all my courses and practical tasks
-- [Kilter Learn](https://github.com/kilterlearn) - all the learning and useful stuff
+- [Decent Sledding](https://github.com/decent-sledding) - All my coding interview and tasks.
+- [Kilter City](https://github.com/kiltercity) - all my courses and university practical tasks.
+- [Kilter Learn](https://github.com/kilterlearn) - all the learning and useful stuff. (no code. more like reference of learning materials)
 - [Kilter Project](https://github.com/kilterproject) - my projects, etc..
+- [Kilter Grind](https://github.com/kiltergrind) - grinding code. Hooking up different exercises and simple projects.
 - [Kilter View](https://github.com/kilterview) - my reviews/feedback of somebody's code/projects
 
 
