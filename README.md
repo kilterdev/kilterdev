@@ -16,7 +16,7 @@
 
 <table  style="width: 100%">
 <tr border="none">
-<td  >
+<td>
 
 - 🔭 I’m currently working on surviving...
 - 🌱 I’m currently learning `Rust`, `C++`, `DevOps`
@@ -32,10 +32,10 @@
 
 ## 🕊 Find Me:
 
-<a href="https://www.linkedin.com/in/kilteredev/">
-  
-![Linkedin: kilterdev](https://img.shields.io/badge/-kilterdev-blue?style=flat-square&logo=Linkedin&logoColor=white)
-</a>
+<a href="https://www.linkedin.com/in/kilteredev/">![Linkedin: kilterdev](https://img.shields.io/badge/-kilterdev-blue?style=flat-square&logo=Linkedin&logoColor=white)</a>
+<a href="https://x.com/kilterdev">![Linkedin: kilterdev](https://img.shields.io/badge/-kilterdev-black?style=flat-square&logo=x&logoColor=white)</a>
+<a href="https://t.me/kilterdev">![Telegram: kilterdev](https://img.shields.io/badge/-kilterdev-blue?style=flat-square&logo=telegram&logoColor=white)</a>
+
 
 <h2>🛠️ SKills (Languages, Frameworks, and Tools) </h2>
 
