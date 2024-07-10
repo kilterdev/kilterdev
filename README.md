@@ -39,7 +39,7 @@
 
 <h2>🛠️ SKills (Languages, Frameworks, and Tools) </h2>
 
-<table>
+<table width="100%">
   <tr>
     <td>Accent:</td>
     <td>
@@ -115,7 +115,7 @@
 - [Kilter Grind](https://github.com/kiltergrind) - grinding code. Hooking up different exercises and simple projects.
 - [Kilter View](https://github.com/kilterview) - my reviews/feedback of somebody's code/projects
 
-
+  
 ## ⚙️ &nbsp;GitHub Analytics
 
 
@@ -123,27 +123,34 @@
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kilterdev&theme=white&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kilterdev&theme=white&hide_border=false" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=kilterdev&include_orgs=true&theme=white&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kilterdev&theme=white&show_icons=true&count_private=true&include_orgs=true" />
+      <br></br>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kilterdev&theme=white&hide_border=false&include_orgs=true" /> 
+    </td>
+    <td width="50%" align="center">      
+      
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kilterdev&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kilterdev&theme=default)
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img  src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=kilterdev&include_orgs=true&theme=white&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+    <td width="50%" align="center">
+      
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kilterdev&theme=default&include_orgs=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kilterdev&theme=default&include_orgs=true)        
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilterdev&bg_color=ffffff&color=000000&line=c792ea&point=ffeb95&area=true&hide_border=false&include_orgs=true" border-radius="15">
+    </td>
+  </tr>
 </table>
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
-<div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilterdev&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
-</div>
 
 
 
