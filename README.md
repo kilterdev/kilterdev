@@ -20,8 +20,8 @@
 
 - 🔭 I’m currently working on surviving...
 - 🌱 I’m currently learning `Rust`, `C++`, `DevOps`
-- 👯 I’m looking to collaborate on Backend, Cryptography (not blockchain), and other interesting projects which involve fun.
-- 🤔 I’m looking for help with becoming a professional `C++/Rust` engineer.
+- 👯 I’m looking to collaborate on Backend, Cryptography, and other interesting projects which involve fun.
+- 🤔 I’m looking for a help in becoming a professional `C++/Rust` engineer.
 - 💬 Ask me about the universe.
 - 😄 Pronouns: Normal
 
