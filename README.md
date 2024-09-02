@@ -32,7 +32,7 @@
 
 ## 🕊 Find Me:
 
-<a href="https://www.linkedin.com/in/kilteredev/">![Linkedin: kilterdev](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/kilterdev/">![Linkedin: kilterdev](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)</a>
 <a href="https://x.com/kilterdev">![Linkedin: kilterdev](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=x&logoColor=white)</a>
 <a href="https://t.me/kilterdev">![Telegram: kilterdev](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)</a>
 <a href="https://discord.com/users/574693981271752735">![Discord: kilterdev](https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white)</a>
