@@ -146,11 +146,11 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kilterdev&theme=default&include_orgs=true)        
     </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td colspan=2>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=kilterdev&bg_color=ffffff&color=000000&line=c792ea&point=ffeb95&area=true&hide_border=false&include_orgs=true" border-radius="15">
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 
