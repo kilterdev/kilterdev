@@ -4,6 +4,9 @@
   <br>
   Kilter Dev
   <br>
+  <br>
+  
+<table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/kilterdev/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/kilterdev/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/kilterdev/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 </h1>
 
 <!--
@@ -18,12 +21,14 @@
 <tr border="none">
 <td>
 
-- 🔭 I’m currently working on surviving...
-- 🌱 I’m currently learning `Rust`, `C++`, `DevOps`
-- 👯 I’m looking to collaborate on Backend, Cryptography, and other interesting projects which involve fun.
-- 🤔 I’m looking for a help in becoming a professional `C++/Rust` engineer.
-- 💬 Ask me about the universe.
-- 😄 Pronouns: Normal
+- 🔭 I’m currently working on brainscalping...
+- 🌱 I’m currently learning `Rust`, `C++`, `Zig`, `DevOps`
+- 👯 I’m looking for Backend, Cryptography, and other interesting projects which involve some fun.
+- 🤔 I’m searching for a sanity in the world (if you find some - let me know).
+- 💬 Ask me about the universe. (actually - don't. there are some risks...)
+- Kind: Transcendental Being (better be ignorant and happy, than self-aware and crappy, trust me)
+- Sex: Boy
+- 😄 Pronouns: He, Mr Adequacy, Sanity?, Sage?,
 
 </td>
 </tr>
@@ -36,7 +41,6 @@
 <a href="https://x.com/kilterdev">![Linkedin: kilterdev](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=x&logoColor=white)</a>
 <a href="https://t.me/kilterdev">![Telegram: kilterdev](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)</a>
 <a href="https://discord.com/users/574693981271752735">![Discord: kilterdev](https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white)</a>
-
 
 <h2>🛠️ SKills (Languages, Frameworks, and Tools) </h2>
 
@@ -118,6 +122,7 @@
 
   
 ## ⚙️ &nbsp;GitHub Analytics
+
 
 
 <!--- stats & Trophy (start) -->
