@@ -111,7 +111,7 @@
 -->
 
 
-<h2>©️ My Organizations </h2>
+<h2>©️ Github Organizations </h2>
 
 - [Decent Sledding](https://github.com/decent-sledding) - All my coding interview and tasks.
 - [Kilter City](https://github.com/kiltercity) - all my courses and university practical tasks.
