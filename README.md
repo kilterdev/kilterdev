@@ -1,16 +1,5 @@
-<h1 align='center'>
-  <br>
-  <a href='https:/www.kilter.dev/'><img width="200" src='https://github.com/kilterdev/kilterdev/assets/65344944/6612d823-cd9d-439d-ac23-64263fd0f3a5' alt='Sogi' width='200'></a>
-  <br>
-  Kilter Dev
-  <br>
-  <br>
 
-<!--
-<p align="center">
-  <img  alt="Coding" style="min-width: 450; width: 700" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-</p>
--->
+
 
 # 👋 About Me
 
