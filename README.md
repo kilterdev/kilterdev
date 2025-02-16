@@ -5,9 +5,6 @@
   Kilter Dev
   <br>
   <br>
-  
-<table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/kilterdev/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/kilterdev/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/kilterdev/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-</h1>
 
 <!--
 <p align="center">
@@ -28,7 +25,7 @@
 - 💬 Ask me about the universe. (actually - don't. there are some risks...)
 - Kind: Transcendental Being (better be ignorant and happy, than self-aware and crappy, trust me)
 - Sex: Boy
-- 😄 Pronouns: He, Mr Adequacy, Sanity?, Sage?,
+- 😄 Pronouns: He, Mr Adequacy, Sanity?, Sage?
 
 </td>
 </tr>
@@ -67,6 +64,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Terraform](https://img.shields.io/badge/-Terraform-000?&logo=Terraform)
+![Vagrant](https://img.shields.io/badge/-Vagrant-000?&logo=Vagrant)
     </td>
   </tr>
 
@@ -80,7 +78,15 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
     </td>
   </tr>
+  
+  <tr>
+    <td>Editors:</td>
+    <td>
 
+![NeoVim](https://img.shields.io/badge/-NeoVim-000?&logo=NeoVim)
+![VSCpde](https://custom-icon-badges.demolab.com/badge/VSCode-0078d7.svg?logo=vsc&logoColor=white)
+    </td>
+  </tr>
   <tr>
     <td>Misc:</td>
     <td>
@@ -98,6 +104,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
     </td>
   </tr>
+  
 </table>
 
 <!--![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
