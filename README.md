@@ -129,7 +129,6 @@
     <td width="50%" align="center">
       <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=kilterdev&theme=white&show_icons=true&count_private=true&include_orgs=true" />
       <br></br>
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kilterdev&theme=white&hide_border=false&include_orgs=true" /> 
     </td>
     <td width="50%" align="center">      
       
